@@ -11,10 +11,9 @@ tensorboard==2.9.1
 mediapipe==0.10.5
 opencv-python-headless==4.7.0.72
 
-av==9.2.0
+av==10.0.0
 aiortc==1.5.0
 
 cffi==1.15.1
 pycparser==2.21
 cryptography==38.0.4
-
