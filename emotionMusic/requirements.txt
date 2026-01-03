@@ -45,6 +45,8 @@ tensorflow==2.9.3
 keras==2.9.0
 tensorboard==2.9.1
 
+setuptools==67.8.0
+
 # Computer vision
 mediapipe==0.10.5
 opencv-python-headless==4.7.0.72
