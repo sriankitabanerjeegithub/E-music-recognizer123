@@ -4,17 +4,14 @@ streamlit-webrtc==0.53.10
 numpy==1.23.5
 protobuf>=3.20,<5
 
-tensorflow==2.9.3
-keras==2.9.0
-tensorboard==2.9.1
+tensorflow==2.10.0
+keras==2.10.0
+tensorboard==2.10.0
 
 mediapipe==0.10.5
 opencv-python-headless==4.7.0.72
 
-# PyAV compatible with Python 3.9
 av==8.0.3
-
-# Use aiortc compatible with streamlit-webrtc
 aiortc>=1.9.0
 
 cffi==1.15.1
