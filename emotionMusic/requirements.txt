@@ -28,6 +28,11 @@
 # pycparser==2.23
 # cryptography==38.0.4
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 2784c02 (Fix runtime for Streamlit deployment)
 streamlit==1.29.0
 streamlit-webrtc==0.53.10
 
