@@ -28,31 +28,28 @@
 # pycparser==2.23
 # cryptography==38.0.4
 
+# Streamlit
 streamlit==1.29.0
 streamlit-webrtc==0.53.10
 
-# Scientific computing
+# Core scientific stack
 numpy==1.23.5
 protobuf==3.20.3
 
-# Machine learning
+# Machine Learning (Python 3.9 compatible)
 tensorflow==2.9.3
 keras==2.9.0
 tensorboard==2.9.1
 
-setuptools==67.8.0
-
-# Computer vision
+# Computer Vision
 mediapipe==0.10.5
 opencv-python-headless==4.7.0.72
 
-# Audio/Video streaming
-av==12.0.0
-aiortc==1.10.1
+# Audio / Video streaming
+av==10.0.0
+aiortc==1.5.0
 
-# Security
-cffi>=1.15.1
-pycparser==2.23
+# Crypto / security (safe versions)
 cryptography==38.0.4
-
-
+cffi==1.15.1
+pycparser==2.21
