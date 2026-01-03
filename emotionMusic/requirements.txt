@@ -4,17 +4,17 @@ streamlit-webrtc==0.53.10
 numpy==1.23.5
 protobuf==3.20.3
 
-tensorflow==2.9.3
-tensorboard==2.9.1
-keras==2.9.0
+tensorflow==2.11.0
+tensorboard==2.11.0
+keras==2.11.0
 
-mediapipe==0.10.5
+mediapipe==0.10.4
 
-opencv-python-headless==4.7.0.72
+opencv-python-headless==4.6.0.66
 
 av==12.0.0
 aiortc==1.10.1
 
-cffi==2.0.0
+cffi>=1.15.1
+cryptography>=38.0.4
 pycparser==2.23
-cryptography==38.0.4
