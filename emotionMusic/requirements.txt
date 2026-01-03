@@ -27,6 +27,9 @@
 # cffi==2.0.0
 # pycparser==2.23
 # cryptography==38.0.4
+
+
+
 # Streamlit and WebRTC
 streamlit==1.29.0
 streamlit-webrtc==0.53.10
