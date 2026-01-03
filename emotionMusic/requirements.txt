@@ -11,9 +11,11 @@ tensorboard==2.9.1
 mediapipe==0.10.5
 opencv-python-headless==4.7.0.72
 
-# Use compatible av version for Python 3.9
+# PyAV compatible with Python 3.9
 av==8.0.3
-aiortc==1.5.0
+
+# Use aiortc compatible with streamlit-webrtc
+aiortc>=1.9.0
 
 cffi==1.15.1
 pycparser==2.21
